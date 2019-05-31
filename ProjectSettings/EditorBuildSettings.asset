@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VRSampleScenes/Scenes/Intro.unity
+    guid: 1c5fe2bf037ade84ca9ed9d97b0e1b97
+  - enabled: 1
+    path: Assets/VRSampleScenes/Scenes/MainMenu.unity
+    guid: 3959fdef1e02d4d4fb01414c7de44414
+  - enabled: 1
+    path: Assets/Poly/Geom Art Pack vol. 2/Floating Islands.unity
+    guid: dfc8e6dec80b586499c14f86a3eb58b2
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 5c591d51ea71446cebabddc37b4cd9ea
+  m_configObjects: {}
